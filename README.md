@@ -1,4 +1,4 @@
-## <b>𝙈𝙏 𝘼𝙪𝙩𝙤𝘾𝙖𝙥𝙩𝙞𝙤𝙣 𝘽𝙤𝙩</b>
+## <b>𝘼𝙪𝙩𝙤𝘾𝙖𝙥𝙩𝙞𝙤𝙣 𝘽𝙤𝙩</b>
 
 This Repo is Telegram Channel Code to help build a bot that automatically adds captions to files added to a Telegram channel
 
@@ -19,14 +19,14 @@ This Repo is Telegram Channel Code to help build a bot that automatically adds c
 
 
 ### Deploy To Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/AutoCaption-BoT)                     
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Harshasgaonkar09/Auto-Caption-Bot)                     
 
 ### Simple Variables 😉
 
 * `app_id` : Get this value from [telegram.org](https://my.telegram.org/apps) or [@MT_MyTelegramOrg_Bot](https://t.me/MT_MyTelegramOrg_Bot) .
 * `api_hash` : Get this value from [telegram.org](https://my.telegram.org/apps) or [@MT_MyTelegramOrg_Bot](https://t.me/MT_MyTelegramOrg_Bot) .
 * `bot_token` : Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token .
-* `custom_caption` : your caption. add {file_name} to get file original name. More info to watch [YT TUTORIAL](https://github.com/PR0FESS0R-99) .
+* `custom_caption` : your caption. add {file_name} to get file original name. More info to watch [YT TUTORIAL](https://github.com/Harshasgaonkar09) .
 
 ### Made With 
 
@@ -41,11 +41,10 @@ This Repo is Telegram Channel Code to help build a bot that automatically adds c
 
 ### Developer & Support
 
-[Telegram Channel](https://Telegram.dog/Mo_Tech_YT)
+[Telegram Channel](https://Telegram.dog/theottservice)
 
-[Follow On InstaGram](https://www.instagram.com/mrk_yt_)
+[Follow On InstaGram](https://www.instagram.com/_harsha_gaonkar )
 
-[Subscribe YouTube Channel](https://youtube.com/c/MoTech_YT)
 
 ### Credits
 
@@ -56,7 +55,7 @@ This Repo is Telegram Channel Code to help build a bot that automatically adds c
 
 Licensed under [MIT License](https://github.com/PR0FESS0R-99/AutoCaptionBot-V1/blob/main/LICENSE)
 🚫 Don't Sell This Code. Code is fully open source project ❤️‍🔥
-Copyright Claimed by © @PR0FESS0R-99
+Copyright Claimed by © @Harshasgaonkar09
 
 
 
